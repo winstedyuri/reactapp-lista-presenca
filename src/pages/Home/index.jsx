@@ -29,7 +29,7 @@ export function Home() {
       <header>
         <h1>Lista de Presença</h1>
         <div>
-          <strong>Yuri Selva</strong>
+          <strong>Yuri Silva</strong>
           <img src="https://github.com/winstedyuri.png" alt="Foto de Perfil" />
         </div>
       </header>
